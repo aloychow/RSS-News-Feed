@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuCNA"
+        android:title="Channel News Asia">
+        <menu>
+            <item
+                android:id="@+id/CNALatest"
+                android:title="Latest News" />
+            <item
+                android:id="@+id/CNAAsia"
+                android:title="Asia" />
+            <item
+                android:id="@+id/CNABusiness"
+                android:title="Business" />
+            <item
+                android:id="@+id/CNASingapore"
+                android:title="Singapore" />
+            <item
+                android:id="@+id/CNASport"
+                android:title="Sport" />
+            <item
+                android:id="@+id/CNAWorld"
+                android:title="World" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuBBC"
+        android:title="British Broadcasting Corporation">
+        <menu >
+            <item
+                android:id="@+id/BBCTop"
+                android:title="Top Stories" />
+            <item
+                android:id="@+id/BBCWorld"
+                android:title="World" />
+            <item
+                android:id="@+id/BBCBusiness"
+                android:title="Business" />
+            <item
+                android:id="@+id/BBCPolitics"
+                android:title="Politics" />
+            <item
+                android:id="@+id/BBCHealth"
+                android:title="Health" />
+            <item
+                android:id="@+id/BBCScienceandEnv"
+                android:title="Science and Environment" />
+            <item
+                android:id="@+id/BBCTechnology"
+                android:title="Technology" />
+            <item
+                android:id="@+id/BBCEntandArts"
+                android:title="Entertainment and Arts" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuNYTimes"
+        android:title="New York Times" >
+        <menu >
+            <item
+                android:id="@+id/NYTHome"
+                android:title="Home" />
+            <item
+                android:id="@+id/NYTBusiness"
+                android:title="Business" />
+            <item
+                android:id="@+id/NYTTech"
+                android:title="Technology" />
+            <item
+                android:id="@+id/NYTSports"
+                android:title="Sports" />
+            <item
+                android:id="@+id/NYTScience"
+                android:title="Science" />
+            <item
+                android:id="@+id/NYTArts"
+                android:title="Arts" />
+        </menu>
+    </item>
+</menu>
