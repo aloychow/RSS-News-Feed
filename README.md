@@ -5,5 +5,5 @@ Spans over 20 categories from reputable sources such as Channel News Asia, Briti
 
 ![alt text](https://github.com/aloychow/RSS-News-Feed/blob/main/images/image_1.png "Image")
 
-### Download the calculator here:
+### Download the reader here:
 [Play Store: RSS News Feed](https://play.google.com/store/apps/details?id=com.yola.aloysiuschow.topdownloads)
